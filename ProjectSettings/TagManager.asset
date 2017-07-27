@@ -13,9 +13,6 @@ TagManager:
   - UI
   - 
   - 
-  - light sources
-  - ambient light
-  - light obstacles
   - 
   - 
   - 
@@ -36,7 +33,10 @@ TagManager:
   - 
   - 
   - 
-  - BackGround
+  - 
+  - 
+  - 
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
